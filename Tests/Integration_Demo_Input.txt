@@ -1,0 +1,41 @@
+1
+30
+Main Gate
+A
+Broken lamp
+n
+5
+1
+10
+Library Road
+B
+Flickering
+n
+3
+1
+20
+Parking Area
+C
+Working
+y
+1
+2
+30
+Security Office
+Lamp does not turn on
+5
+2
+10
+Library Staff
+Light flickers at night
+3
+11
+3
+Technician Ali
+12
+4
+13
+9
+10
+14
+0

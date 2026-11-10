@@ -1,0 +1,8 @@
+Course: CS212 - Data Structures
+Project Title: Streetlight Repair Desk
+Registered Practical Section: [section number or name]
+Team ID / Number: [if assigned]
+Student Name: [full name]
+Student University ID: [ID]
+Team Members: [all member names and IDs]
+Project URL: [GitHub repository or OneDrive shared folder URL]

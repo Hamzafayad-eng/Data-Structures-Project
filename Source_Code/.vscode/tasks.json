@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Streetlight Repair Desk",
+            "type": "shell",
+            "command": "C:\\MinGW\\bin\\g++.exe",
+            "args": [
+                "-std=c++17",
+                "-Wall",
+                "-Wextra",
+                "-pedantic",
+                "${workspaceFolder}/main.cpp",
+                "${workspaceFolder}/Application/StreetlightRepairDesk.cpp",
+                "${workspaceFolder}/Algorithms/StreetlightSorter.cpp",
+                "${workspaceFolder}/BST/PoleBST.cpp",
+                "${workspaceFolder}/Common/InputHelper.cpp",
+                "${workspaceFolder}/LinkedList/StreetlightList.cpp",
+                "${workspaceFolder}/Queue/RepairQueue.cpp",
+                "${workspaceFolder}/Stack/ActionStack.cpp",
+                "-o",
+                "${workspaceFolder}/StreetlightRepairDesk.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
